@@ -1,0 +1,9 @@
+git clone // to download repo locally
+git status // to check current modification of files
+git add .  
+git commit -m" "
+git push or git pull
+--------------------
+cd // to enter in new folder 
+cd .. // to come frm the folder
+mkdir // to create folder 
